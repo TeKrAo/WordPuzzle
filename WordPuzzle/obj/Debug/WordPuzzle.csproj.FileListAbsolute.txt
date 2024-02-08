@@ -1,0 +1,7 @@
+D:\Development\C#\WordPuzzle\WordPuzzle\obj\Debug\WordPuzzle.csproj.AssemblyReference.cache
+D:\Development\C#\WordPuzzle\WordPuzzle\obj\Debug\WordPuzzle.csproj.CoreCompileInputs.cache
+D:\Development\C#\WordPuzzle\WordPuzzle\bin\Debug\WordPuzzle.exe.config
+D:\Development\C#\WordPuzzle\WordPuzzle\bin\Debug\WordPuzzle.exe
+D:\Development\C#\WordPuzzle\WordPuzzle\bin\Debug\WordPuzzle.pdb
+D:\Development\C#\WordPuzzle\WordPuzzle\obj\Debug\WordPuzzle.exe
+D:\Development\C#\WordPuzzle\WordPuzzle\obj\Debug\WordPuzzle.pdb
